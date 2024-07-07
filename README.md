@@ -1,6 +1,6 @@
 # Adminer 4.8.1
 
-If you have installed `PHP` on your local computer, you can start the `PHP server` with `Adminer`
+If you have installed `PHP` on your local machine, you can start the `PHP server` with `Adminer`
 
 ## Install
 
@@ -26,3 +26,7 @@ make stop
 ```sh
 make
 ```
+
+## Theme
+
+Design by `Evgen K` - [Adminer eok8177 dark theme](https://github.com/eok8177/adminer.css)
